@@ -1,2 +1,2 @@
 # penseapp
-<h1> Pense APP - Exercicio </h1>
+<h1> Pense APP - README </h1>
