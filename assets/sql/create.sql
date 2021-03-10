@@ -1,0 +1,1 @@
+CREATE TABLE favoritos(id INTEGER PRIMARY KEY, id_produto INTEGER, nome TEXT, descricao TEXT, preco DOUBLE, precoOferta DOUBLE)
